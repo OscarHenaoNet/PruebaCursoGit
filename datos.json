@@ -1,0 +1,23 @@
+{
+    "IPS":[
+       {
+          "nombre": "IPS 1",
+          "archivos":420,
+          "procesados":415,
+          "rechazados":5,
+          "tiempo":"04:27",
+          "data":[
+             {
+                "fecha":"2023-10-05",
+                "Archivos":117,
+                "Paginas":303,
+                "Procesados":314,
+                "Registros":739,
+                "Rechazados":3,
+                "Efectividad":"98.74%",
+                "Tiempo":"02:13"
+             }
+          ]
+       }
+    ]
+ }
