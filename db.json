@@ -6,7 +6,7 @@
           "archivos":200,
           "procesados":171,
           "rechazados":29,
-          "tiempo":"3510",
+          "tiempo":"35:10",
           "data":
             [
                 {
@@ -36,7 +36,7 @@
                     "Registros": 448, 
                     "Exitosos": 50, 
                     "Rechazados": 10, 
-                    "Efectividad": 83.33333333333333, 
+                    "Efectividad": 83.33, 
                     "Tiempo": "0:11:40"
                 },
                 {
@@ -50,6 +50,56 @@
                     "Tiempo": "0:08:42"
                     }
             ]
-        }
+        },
+        {
+            "nombre": "Hospital San_Andres_ESE",
+            "archivos":200,
+            "procesados":184,
+            "rechazados":16,
+            "tiempo":"48:59",
+            "data":
+              [
+                {
+                    "fecha": "14-12-2023",
+                    "Archivos": 10,
+                    "Paginas": 21,
+                    "Registros": 168,
+                    "Exitosos": 10,
+                    "Rechazados": 0,
+                    "Efectividad": 100.0,
+                    "Tiempo": "0:02:12"
+                },
+                {
+                    "fecha": "14-12-2023",
+                    "Archivos": 30,
+                    "Paginas": 48,
+                    "Registros": 262,
+                    "Exitosos": 29,
+                    "Rechazados": 1,
+                    "Efectividad": 96.66,
+                    "Tiempo": "0:06:02"
+                },
+                {
+                    "fecha": "14-12-2023",
+                    "Archivos": 60,
+                    "Paginas": 91,
+                    "Registros": 597,
+                    "Exitosos": 54,
+                    "Rechazados": 6,
+                    "Efectividad": 90.0,
+                    "Tiempo": "0:15:40"
+                },
+                {
+                    "fecha": "14-12-2023",
+                    "Archivos": 100,
+                    "Paginas": 154,
+                    "Registros": 992,
+                    "Exitosos": 91,
+                    "Rechazados": 9,
+                    "Efectividad": 91.0,
+                    "Tiempo": "0:25:05"
+                }
+              ]
+          }
     ]
 }
