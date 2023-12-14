@@ -10,6 +10,16 @@
           "data":
             [
                 {
+                    "fecha": "14-12-2023",
+                    "Archivos": 10,
+                    "Paginas": 15,
+                    "Registros": 65,
+                    "Exitosos": 5,
+                    "Rechazados": 5,
+                    "Efectividad": 50.0,
+                    "Tiempo": "0:01:36"
+                },
+                {
                     "fecha": "14-12-2023", 
                     "Archivos": 20, 
                     "Paginas": 36, 
