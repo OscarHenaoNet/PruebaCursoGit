@@ -1,23 +1,55 @@
 {
-    "IPS":[
+    "IPS":
+    [
        {
-          "nombre": "IPS 55",
-          "archivos":420,
-          "procesados":415,
-          "rechazados":5,
-          "tiempo":"04:27",
-          "data":[
-             {
-                "fecha":"2023-10-05",
-                "Archivos":118,
-                "Paginas":303,
-                "Procesados":314,
-                "Registros":739,
-                "Rechazados":3,
-                "Efectividad":"98.74%",
-                "Tiempo":"02:13"
-             }
-          ]
-       }
+          "nombre": "Hospital Municipal_de_Acacias",
+          "archivos":200,
+          "procesados":171,
+          "rechazados":29,
+          "tiempo":"3510",
+          "data":
+            [
+                {
+                    "fecha": "14-12-2023", 
+                    "Archivos": 20, 
+                    "Paginas": 36, 
+                    "Registros": 325, 
+                    "Exitosos": 17, 
+                    "Rechazados": 3, 
+                    "Efectividad": 85.0, 
+                    "Tiempo": "0:04:39"
+                },
+                {
+                    "fecha": "14-12-2023", 
+                    "Archivos": 50, 
+                    "Paginas": 61, 
+                    "Registros": 301, 
+                    "Exitosos": 39, 
+                    "Rechazados": 11, 
+                    "Efectividad": 78.0, 
+                    "Tiempo": "0:08:33"
+                },
+                {
+                    "fecha": "14-12-2023", 
+                    "Archivos": 60,
+                    "Paginas": 80, 
+                    "Registros": 448, 
+                    "Exitosos": 50, 
+                    "Rechazados": 10, 
+                    "Efectividad": 83.33333333333333, 
+                    "Tiempo": "0:11:40"
+                },
+                {
+                    "fecha": "14-12-2023",
+                    "Archivos": 60,
+                    "Paginas": 60, 
+                    "Registros": 174, 
+                    "Exitosos": 60, 
+                    "Rechazados": 0, 
+                    "Efectividad": 100.0, 
+                    "Tiempo": "0:08:42"
+                    }
+            ]
+        }
     ]
- }
+}
